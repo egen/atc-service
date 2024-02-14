@@ -1,0 +1,12 @@
+{
+  "env": "NODE_ENV",
+  "kafka": {
+    "brokers": "KAFKA_BROKERS",
+    "clientId": "KAFKA_CLIENT_ID",
+    "groupId": "KAFKA_GROUP_ID",
+    "topics": {
+      "health": "KAFKA_HEALTH_TOPIC",
+      "product": "KAFKA_PRODUCT_TOPIC"
+    }
+  }
+}

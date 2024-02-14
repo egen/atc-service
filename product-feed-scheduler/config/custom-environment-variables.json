@@ -1,0 +1,11 @@
+{
+  "env": "NODE_ENV",
+  "host": "HOST",
+  "port": "PORT",
+  "cron": {
+    "timeZone": "CRON_TIMEZONE",
+    "expressions": {
+      "notifications": "CRON_NOTIFICATIONS_EXPRESSION"
+    }
+  }
+}

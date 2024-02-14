@@ -1,0 +1,12 @@
+{
+  "env": "development",
+  "kafka": {
+    "brokers": "localhost:9093",
+    "clientId": "product",
+    "groupId": "product-enricher",
+    "topics": {
+      "health": "health",
+      "product": "product"
+    }
+  }
+}

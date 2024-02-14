@@ -1,0 +1,5 @@
+{
+  "env": "test",
+  "port": 8080,
+  "cors": "http://localhost:3000"
+}
