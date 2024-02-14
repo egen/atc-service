@@ -30,7 +30,7 @@
     "rimraf": "^3.0.2"
   },
   "devDependencies": {
-    "@nestjs/cli": "^8.0.0",
+    "@nestjs/cli": "^10.3.2",
     "@nestjs/schematics": "^8.0.0",
     "@nestjs/testing": "^8.0.0",
     "@types/cron": "^2.0.0",
